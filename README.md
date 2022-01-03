@@ -15,3 +15,5 @@ mp_restartgame 1;
 >bind "kp_end" "buy vesthelm; buy molotov; buy flashbang; buy hegrenade; buy incgrenade; buy smokegrenade; buy m4a1; buy ak47;"
 ### numpad 2
 >bind "kp_downarrow" "buy awp; buy flashbang;"
+
+![GitHub Light](https://steamcommunity.com/groups/Dilobby)
