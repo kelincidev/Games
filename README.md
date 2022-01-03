@@ -1,4 +1,7 @@
 # Counter-Strike: Global Offensive
+
+[Steam Group](https://steamcommunity.com/groups/Dilobby)
+
 ### custome command
 mp_maxmoney 65535;
 mp_startmoney 65535;
@@ -15,5 +18,3 @@ mp_restartgame 1;
 >bind "kp_end" "buy vesthelm; buy molotov; buy flashbang; buy hegrenade; buy incgrenade; buy smokegrenade; buy m4a1; buy ak47;"
 ### numpad 2
 >bind "kp_downarrow" "buy awp; buy flashbang;"
-
-[Steam Group](https://steamcommunity.com/groups/Dilobby)
