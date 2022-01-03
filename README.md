@@ -16,4 +16,4 @@ mp_restartgame 1;
 ### numpad 2
 >bind "kp_downarrow" "buy awp; buy flashbang;"
 
-- [ ]https://steamcommunity.com/groups/Dilobby
+[GitHub Pages](https://steamcommunity.com/groups/Dilobby)
